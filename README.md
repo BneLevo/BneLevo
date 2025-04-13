@@ -46,10 +46,10 @@ When I’m not coding, I enjoy playing sports to stay active and focused, and of
 
 ### 🚀 Featured Projects:
 
-- [**Project 1 Name**](#)  
+- [**Project 1**](#)  
   *Soon*
 
-- [**Project 2 Name**](#)  
+- [**Project 2**](#)  
   *Soon*
 
 ---
