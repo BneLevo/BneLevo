@@ -54,6 +54,14 @@ When I’m not coding, I enjoy playing sports to stay active and focused, and of
 
 ---
 
+### 📚 Recommended Channels
+
+- [Nova Designs](https://www.youtube.com/@Nova_Designs_) - Web development topics
+- [BroCode](https://www.youtube.com/@BroCodez) - Programming Languages, frameworks
+- [Onrir](https://www.youtube.com/@onrir/videos) - A turkish channel for beginners
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bnelevo&show_icons=true&theme=radical" />
