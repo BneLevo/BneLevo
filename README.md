@@ -47,7 +47,7 @@ When I’m not coding, I enjoy playing sports to stay active and focused, and of
 ### 🚀 Featured Projects:
 
 - [**Project 1**](#)  
-  *Soon*
+  [Magasin Ozgun](https://github.com/BneLevo/MagasinOzgun) - In development
 
 - [**Project 2**](#)  
   *Soon*
