@@ -8,9 +8,7 @@
 ---
 
 ### Reach me at:
-**Email:** leventozgun73@gmail.com  
-**Website/Portfolio:** *Soon*  
-**Steam:** [BneLevo](https://steamcommunity.com/profiles/76561199233482335/) 
+**Email:** leventozgun73@gmail.com
 
 ---
 
@@ -24,38 +22,9 @@ I’m always eager to learn and grow in both web and game development, and I lov
 
 When I’m not coding, I enjoy playing sports to stay active and focused, and of course, I’m also a big fan of playing video games.
 
----
-
-### Languages & Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="php" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="sqlite" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" />
-  <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,sqlite,mongodb,cs,dotnet,git,docker,linux,blender,photoshop&perline=8" />
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnelevo&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnelevo&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnelevo&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <i>"Be yourself"</i>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bnelevo&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" />
